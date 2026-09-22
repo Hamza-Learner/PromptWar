@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield",
+  "description": "Fake offer letter, phishing, and scam inspection tool with Scam Threat Index calculation, Gemini AI fraud analysis, and RDAP domain verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
